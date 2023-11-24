@@ -1,1 +1,1 @@
-# My SQL Queries
+# Amazon Data Analysis Project
